@@ -26,11 +26,11 @@ set color_titleline_bg=181
 set color_titleline_fg=233
 
 set color_statusline_bg=default
-set color_statusline_fg=254
+set color_statusline_fg=default
 
 # Text
 set color_win_cur=227
-set color_win_dir=254
+set color_win_dir=default
 
 # Menu
 set color_win_sel_bg=181
