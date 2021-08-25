@@ -20,7 +20,7 @@
 :colorscheme rose-pine
 ```
 
-> Note: the legacy colors follow more closely the default colorscheme of cmus.
+> Note: the legacy colors follow more closely the default colorscheme of cmus. However, both use some of the terminal's colors. So, the visual result depends on the colorscheme used by your terminal. To get a similar result as the screenshots below, be sure to use the theme suited for your terminal from [here](https://github.com/rose-pine/rose-pine-theme#terminal).
 
 ## Gallery
 
