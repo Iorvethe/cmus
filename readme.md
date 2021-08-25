@@ -13,23 +13,20 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Copy the `.theme` file of your choice to `.config/cmus/`
+3. Run the following inside `cmus`:
+
+```vim
+:colorscheme rose-pine
+```
+
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+| Legacy | Pink |
+| --- | --- |
+|![Rosé Pine with App](assets/cmus-blue.png)|![Rosé Pine with App](assets/cmus-pink.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [Iorvethe](https://github.com/Iorvethe)
