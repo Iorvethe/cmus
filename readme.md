@@ -28,6 +28,8 @@
 | --- | --- |
 |![Rosé Pine with App](assets/cmus-legacy.png)|![Rosé Pine with App](assets/cmus-rose-pine.png)|
 
+> The font used is [`JetBrains Mono`](https://github.com/JetBrains/JetBrainsMono).
+
 ## Thanks to
 
 - [Iorvethe](https://github.com/Iorvethe)
