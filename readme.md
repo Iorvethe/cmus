@@ -25,7 +25,7 @@
 
 | Legacy | Pink |
 | --- | --- |
-|![Rosé Pine with App](assets/cmus-legacy.png)|![Rosé Pine with App](assets/cmus-pink.png)
+|![Rosé Pine with App](assets/cmus-legacy.png)|![Rosé Pine with App](assets/cmus-rose-pine.png)|
 
 ## Thanks to
 
