@@ -20,10 +20,11 @@
 :colorscheme rose-pine
 ```
 
+>> Note: the legacy colors follow more closely the default colorscheme of cmus.
 
 ## Gallery
 
-| Legacy | Pink |
+| Rosé Pine Legacy | Rosé Pine |
 | --- | --- |
 |![Rosé Pine with App](assets/cmus-legacy.png)|![Rosé Pine with App](assets/cmus-rose-pine.png)|
 
