@@ -20,7 +20,7 @@
 :colorscheme rose-pine
 ```
 
->> Note: the legacy colors follow more closely the default colorscheme of cmus.
+> Note: the legacy colors follow more closely the default colorscheme of cmus.
 
 ## Gallery
 
